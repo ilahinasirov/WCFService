@@ -1,0 +1,6 @@
+C:\Users\Nasirov\source\repos\ServiceProj\Entities2\bin\Debug\Entities2.dll
+C:\Users\Nasirov\source\repos\ServiceProj\Entities2\bin\Debug\Entities2.pdb
+C:\Users\Nasirov\source\repos\ServiceProj\Entities2\obj\Debug\Entities2.csproj.AssemblyReference.cache
+C:\Users\Nasirov\source\repos\ServiceProj\Entities2\obj\Debug\Entities2.csproj.CoreCompileInputs.cache
+C:\Users\Nasirov\source\repos\ServiceProj\Entities2\obj\Debug\Entities2.dll
+C:\Users\Nasirov\source\repos\ServiceProj\Entities2\obj\Debug\Entities2.pdb

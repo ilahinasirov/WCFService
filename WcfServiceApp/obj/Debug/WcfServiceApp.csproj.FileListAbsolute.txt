@@ -1,0 +1,17 @@
+C:\Users\Nasirov\source\repos\ServiceProj\WcfServiceApp\obj\Debug\WcfServiceApp.csproj.AssemblyReference.cache
+C:\Users\Nasirov\source\repos\ServiceProj\WcfServiceApp\obj\Debug\WcfServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\Nasirov\source\repos\ServiceProj\WcfServiceApp\bin\WcfServiceApp.dll.config
+C:\Users\Nasirov\source\repos\ServiceProj\WcfServiceApp\bin\WcfServiceApp.dll
+C:\Users\Nasirov\source\repos\ServiceProj\WcfServiceApp\bin\WcfServiceApp.pdb
+C:\Users\Nasirov\source\repos\ServiceProj\WcfServiceApp\obj\Debug\WcfServiceApp.dll
+C:\Users\Nasirov\source\repos\ServiceProj\WcfServiceApp\obj\Debug\WcfServiceApp.pdb
+C:\Users\Nasirov\source\repos\ServiceProj\WcfServiceApp\bin\Entities2.dll
+C:\Users\Nasirov\source\repos\ServiceProj\WcfServiceApp\bin\Entities2.pdb
+C:\Users\Nasirov\source\repos\ServiceProj\WcfServiceApp\obj\Debug\WcfServiceApp.csproj.CopyComplete
+C:\Users\Nasirov\source\repos\ServiceProj\WcfServiceApp\bin\EntityFramework.dll
+C:\Users\Nasirov\source\repos\ServiceProj\WcfServiceApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Nasirov\source\repos\ServiceProj\WcfServiceApp\bin\Microsoft.SqlServer.Server.dll
+C:\Users\Nasirov\source\repos\ServiceProj\WcfServiceApp\bin\EntityFramework.xml
+C:\Users\Nasirov\source\repos\ServiceProj\WcfServiceApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Nasirov\source\repos\ServiceProj\WcfServiceApp\bin\Microsoft.SqlServer.Server.pdb
+C:\Users\Nasirov\source\repos\ServiceProj\WcfServiceApp\bin\Microsoft.SqlServer.Server.xml
